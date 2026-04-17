@@ -51,7 +51,7 @@ python -m uvicorn app.main:app --reload
 
 Start the frontend:
 npm run dev
-```  <-- These three dots "close" the bash section
+```  
 
 ## 📸 Screenshots
 Here is a look at the Potato Disease Predictor in action:
